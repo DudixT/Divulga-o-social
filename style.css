@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #e96835;
     color: white;
     padding: 15px;
     text-align: center;
@@ -51,7 +51,7 @@ section {
 }
 
 h1, h2 {
-    color: #4CAF50;
+    color: #e96835;
 }
 
 .projeto {
@@ -59,7 +59,7 @@ h1, h2 {
 }
 
 #doar {
-    background-color: #4CAF50;
+    background-color: #e96835;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -68,7 +68,7 @@ h1, h2 {
 }
 
 #doar:hover {
-    background-color: #45a049;
+    background-color: #e96835;
 }
 
 footer {
@@ -89,7 +89,7 @@ footer img.logo-footer {
 }
 
 footer a {
-    color: #4CAF50;
+    color: #e96835;
     text-decoration: none;
 }
 
